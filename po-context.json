@@ -1,0 +1,20 @@
+{
+  "project": "Performance Dashboard v2",
+  "timestamp": "2026-04-07T10:00:00Z",
+  "current_task": "Refine user stories for real-time metrics feature",
+  "prd_summary": "...",
+  "user_stories": [
+    {
+      "id": "US-101",
+      "title": "...",
+      "acceptance_criteria": ["..."],
+      "priority": "High",
+      "rationale": "..."
+    }
+  ],
+  "decisions": ["..."],
+  "tradeoffs": ["..."],
+  "risks_assumptions": ["..."],
+  "failed_approaches": ["..."],
+  "next_steps": ["..."]
+}
